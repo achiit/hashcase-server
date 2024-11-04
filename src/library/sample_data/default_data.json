@@ -1,0 +1,192 @@
+{
+  "ownersData": [
+    {
+      "id": 1,
+      "name": "Team HashCase",
+      "email": "contact@hashcase.co",
+      "password_hash": "0x0000",
+      "company_name": "HashCase"
+    }
+  ],
+  "collectionsData": [
+    {
+      "id": 1,
+      "name": "Sandbox",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0x4Fc7556B9Da50278be434e4b3cb016d08Ff4a707",
+      "standard": "erc1155",
+      "owner_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Sandbox Assets",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0xaa22D8723710b137e9a3A569311E57920e645c93",
+      "standard": "erc1155",
+      "owner_id": 1
+    },
+    {
+      "id": 3,
+      "name": "bharatboxIBW",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0x7108203291b0Ce30c61C3739E392A7d6a7CB2151",
+      "standard": "erc1155",
+      "owner_id": 1
+    },
+    {
+      "id": 4,
+      "name": "CoinDCX Demo",
+      "description": "Sandbox Assets for Hong Kong Booth",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0xca22D8723710b137e9a3A569311E57920e645c93",
+      "standard": "erc1155",
+      "owner_id": 1
+    },
+    {
+      "id": 5,
+      "name": "Test API Key Collection",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0xd4747b35eDFbC15a1AAb34971Dbd09684e17F371",
+      "standard": "erc721",
+      "owner_id": 1
+    },
+    {
+      "id": 6,
+      "name": "FIL Bangalore",
+      "image_uri": "https://incepthink.mypinata.cloud/ipfs/Qmf4m2yCmKZNFFszc4FzrYLD9vsPX7oYCaPn73sGmfzfL4",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0x59a56f140a840258a496c1534effaf1ef26d2568",
+      "standard": "erc1155",
+      "owner_id": 1
+    },
+    {
+      "id": 7,
+      "name": "web3Days BPGC",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0x951881A420Bb50F6Df213e955B6653dBd2c647Af",
+      "standard": "erc1155",
+      "owner_id": 1
+    },
+    {
+      "id": 8,
+      "name": "MasterG",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0xB2D5b5e44E50226f241df90616a8980aeE9CE0fe",
+      "standard": "erc1155",
+      "owner_id": 1
+    },
+    {
+      "id": 9,
+      "name": "Gaysi",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0x994F9a4809135eb37f272BCda1C432098282a7f2",
+      "standard": "erc1155",
+      "owner_id": 1
+    },
+    {
+      "id": 10,
+      "name": "HashCase Claimables",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0x61f7E2e2B654E5a02d7b1F18505c90A77DCE461A",
+      "standard": "erc1155",
+      "owner_id": 1
+    },
+    {
+      "id": 11,
+      "name": "HashCase NFTs",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0x444a00D7821a01EB97a83A1468fAE047EF33Ab02",
+      "standard": "erc1155",
+      "owner_id": 1
+    },
+    {
+      "id": 12,
+      "name": "Schbang NFT",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0xDe2591D733a32a813cF4C31fEB7dF9529b673CB8",
+      "standard": "erc1155",
+      "owner_id": 1
+    },
+    {
+      "id": 13,
+      "name": "HashCase 721",
+      "description": "Claim your free HashCase membership NFTs now!",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/website/sneakers.png",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0x4A00e5ab3BEba02F85Bdb4B52Abf0756107C3aa6",
+      "standard": "erc721",
+      "owner_id": 1
+    },
+    {
+      "id": 14,
+      "name": "Pepper Content",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0x9d2f04B115469f3b0D35e5Fff929B76df2F735e6",
+      "standard": "erc1155",
+      "owner_id": 1
+    },
+    {
+      "id": 15,
+      "name": "Open Business Council",
+      "description": "An NFT awarded for registering on the Open Business Council platform",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/customernfts/obs.jpeg",
+      "chain_type": "ethereum",
+      "chain_id": 137,
+      "contract_address": "0x6C12D1c888cF42983Ead292371090dC8EC34f6D2",
+      "standard": "erc1155",
+      "owner_id": 1
+    },
+    {
+      "id": 16,
+      "name": "Mantle Minter",
+      "description": "A 721 Mantle Collection allowing users to set name, description, and image for their NFTs",
+      "chain_type": "ethereum",
+      "chain_id": 5001,
+      "contract_address": "0x8f5097d4E92dDa9F1E02c6F4D1B049618edce6Cd",
+      "standard": "erc721",
+      "owner_id": 1
+    },
+    {
+      "id": 17,
+      "name": "Filecoin Minter",
+      "description": "A 721 Filecoin Collection allowing users to set name and description for their NFTs",
+      "chain_type": "filecoin",
+      "chain_id": 314159,
+      "contract_address": "0xdB930B380d4f0D5318d02f8dD0D64414008098AF",
+      "standard": "erc721",
+      "owner_id": 1
+    }
+  ],
+  "itemsData": [
+    {
+      "id": 1,
+      "name": "Apefest Sandbox Avatar",
+      "description": "A limited edition collectible powered by HashCase for all the attendees of 'Sandbox Creator Day', at ApeFest HK 2023. Each holder will be airdropped a Sandbox avatar that they can use in the metaverse.",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/images/APE+NFT_small.png",
+      "collection_id": 1,
+      "token_id": 1
+    },
+    {
+      "id": 2,
+      "name": "The Helpful Magician",
+      "description": "He was once a simple village cobbler, mending not just boots but weary hearts with a smile and a listening ear.",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/NFT_Shared.jpg",
+      "collection_id": 1,
+      "token_id": 2
+    }
+  ]
+}

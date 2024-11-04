@@ -1,0 +1,34 @@
+{
+    "collectionsData": [
+        {
+           "contract_address": "0x61f7E2e2B654E5a02d7b1F18505c90A77DCE461A", "name": "NFT Essentials", "blockchain": "POLYGON", "type":"CLAIMANDSHIP", "standard":"1155"
+        },
+        {
+            "contract_address": "0xEa8158cc97D7543C55E5663740e9AeC415d25134", "name": "HashCase NFTs", "blockchain": "POLYGON", "type":"BUYANDCLAIM", "standard":"1155"
+         }
+    ],
+
+    "userData": [
+        {
+           "wallet_address": "0xCC4152fD5E5842dEe1279BE9A862eec370e1E5a6", "admin": 1, "username": "fair-minded-childers-32"
+        }
+    ],
+    
+    "merchsData": [
+        {
+            "collection_id": 1, "token_id": 1, "name": "Green Hoodie Claimed", "type": "hoodie", "nft_image_url": "https://gateway.pinata.cloud/ipfs/QmbiYckHarrHGQKQEp4m5WRq9CWuRJyLCP7PuE6uzZcgYZ/green%20hoodieClaimed.jpg", "claimable": false
+        },
+        {
+            "collection_id": 1, "token_id": 2, "name": "Green Hoodie", "type": "hoodie", "nft_image_url": "https://gateway.pinata.cloud/ipfs/QmbiYckHarrHGQKQEp4m5WRq9CWuRJyLCP7PuE6uzZcgYZ/green%20hoodie.jpg", "claimable": true
+        },
+        {
+            "collection_id": 1, "token_id": 3, "name": "Incepthink Tee Claimed", "type": "tshirt", "nft_image_url": "https://gateway.pinata.cloud/ipfs/QmbiYckHarrHGQKQEp4m5WRq9CWuRJyLCP7PuE6uzZcgYZ/incepthinkteeClaimed.jpg", "claimable": false
+        },
+        {
+            "collection_id": 1, "token_id": 4, "name": "Incepthink Tee", "type": "tshirt", "nft_image_url": "https://gateway.pinata.cloud/ipfs/QmbiYckHarrHGQKQEp4m5WRq9CWuRJyLCP7PuE6uzZcgYZ/incepthinktee.jpg", "claimable": true
+        },
+        {
+            "collection_id": 2, "token_id": 1, "name": "Cool Sneakers", "type": "others", "nft_image_url": "https://gateway.pinata.cloud/ipfs/QmY9E24HgjsfqFEMgnnzrFeLCHaViEvuj6cpxKTDnwqj5d", "claimable": false
+        }
+    ]
+}

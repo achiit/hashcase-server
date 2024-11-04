@@ -1,0 +1,93 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:import/errors",
+    "plugin:import/warnings",
+    "plugin:import/typescript",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:prettier/recommended"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "plugins": ["import", "@typescript-eslint", "prettier"],
+  "rules": {
+    "no-console": "error",
+    "import/no-internal-modules": [
+      "error",
+      {
+        "forbid": ["**/models/*", "**/services/*./*"]
+      }
+    ],
+    "prettier/prettier": [
+      "error",
+      {
+        "singleQuote": true,
+        "tabWidth": 2,
+        "semi": false
+      }
+    ],
+    "import/order": [
+      "error",
+      {
+        "groups": [
+          "builtin",
+          "external",
+          "internal",
+          "parent",
+          "sibling",
+          "index"
+        ],
+        "newlines-between": "always",
+        "alphabetize": {
+          "order": "asc",
+          "caseInsensitive": true
+        }
+      }
+    ],
+    "import/newline-after-import": ["error", { "count": 1 }]
+  },
+  "overrides": [
+    {
+      "files": ["src/utils/logger.ts", "src/scripts/*.ts"],
+      "rules": {
+        "no-console": "off",
+        "@typescript-eslint/no-explicit-any": "off"
+      }
+    },
+    {
+      "files": [
+        "src/controllers/*.ts",
+        "src/app.ts",
+        "src/tests/**/*.ts",
+        "src/models/index.ts"
+      ],
+      "rules": {
+        "import/no-internal-modules": [
+          "error",
+          {
+            "forbid": ["**/services/*./*"]
+          }
+        ]
+      }
+    },
+    {
+      "files": ["src/tests/**/*.ts"],
+      "rules": {
+        "import/no-unresolved": [
+          "error",
+          {
+            "ignore": ["bun:test"]
+          }
+        ]
+      }
+    }
+  ]
+}

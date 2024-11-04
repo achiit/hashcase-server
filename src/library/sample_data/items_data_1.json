@@ -1,0 +1,788 @@
+{
+  "itemsData": [
+    {
+      "name": "Desi Girl",
+      "description": "She will SWEEP you off your feet with her smooth dance moves while her blingy accessories beat the Gold Standard! ‘Desi Girl’ is no ordinary woman, She will be a phenomenon in your NFT portfolio!",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/Woman.png",
+      "collection_id": 3,
+      "token_id": 1
+    },
+    {
+      "name": "Mr. Singh",
+      "description": "He is the Indian Prince Charming, in a beautifully wrapped yellow turban! ‘Mr. Singh’ is not a singer but he will sing for you and drive the bear market blues away from your NFT portfolio!",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/Indian+Man+1.png",
+      "collection_id": 3,
+      "token_id": 2
+    },
+    {
+      "name": "Man Of The Match",
+      "description": "YOU can change history in BharatBox with this Cricket Legend NFT! Achieve hattrick after hattrick and make your ‘Man Of The Match’ conquer the field and everyone’s hearts!",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/Cricketer+.png",
+      "collection_id": 3,
+      "token_id": 3
+    },
+    {
+      "name": "CoinDCX_1",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/1.png",
+      "collection_id": 4,
+      "token_id": 1
+    },
+    {
+      "name": "CoinDCX_2",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/2.png",
+      "collection_id": 4,
+      "token_id": 2
+    },
+    {
+      "name": "CoinDCX_3",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/3.png",
+      "collection_id": 4,
+      "token_id": 3
+    },
+    {
+      "name": "CoinDCX_4",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/4.png",
+      "collection_id": 4,
+      "token_id": 4
+    },
+    {
+      "name": "CoinDCX_5",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/6.png",
+      "collection_id": 4,
+      "token_id": 5
+    },
+    {
+      "name": "CoinDCX_6",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/5.png",
+      "collection_id": 4,
+      "token_id": 6
+    },
+    {
+      "name": "CoinDCX_7",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/7.png",
+      "collection_id": 4,
+      "token_id": 7
+    },
+    {
+      "name": "CoinDCX_8",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/9.png",
+      "collection_id": 4,
+      "token_id": 8
+    },
+    {
+      "name": "CoinDCX_9",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/10.png",
+      "collection_id": 4,
+      "token_id": 9
+    },
+    {
+      "name": "CoinDCX_10",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/13.png",
+      "collection_id": 4,
+      "token_id": 10
+    },
+    {
+      "name": "CoinDCX_11",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/11.png",
+      "collection_id": 4,
+      "token_id": 11
+    },
+    {
+      "name": "CoinDCX_12",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/12.png",
+      "collection_id": 4,
+      "token_id": 12
+    },
+    {
+      "name": "CoinDCX_13",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/8.png",
+      "collection_id": 4,
+      "token_id": 13
+    },
+    {
+      "name": "CoinDCX_14",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/17.png",
+      "collection_id": 4,
+      "token_id": 14
+    },
+    {
+      "name": "CoinDCX_15",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/16.png",
+      "collection_id": 4,
+      "token_id": 15
+    },
+    {
+      "name": "CoinDCX_16",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/14.png",
+      "collection_id": 4,
+      "token_id": 16
+    },
+    {
+      "name": "CoinDCX_17",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/18.png",
+      "collection_id": 4,
+      "token_id": 17
+    },
+    {
+      "name": "CoinDCX_18",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/15.png",
+      "collection_id": 4,
+      "token_id": 18
+    },
+    {
+      "name": "CoinDCX_19",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/21.png",
+      "collection_id": 4,
+      "token_id": 19
+    },
+    {
+      "name": "CoinDCX_20",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/19.png",
+      "collection_id": 4,
+      "token_id": 20
+    },
+    {
+      "name": "CoinDCX_21",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/23.png",
+      "collection_id": 4,
+      "token_id": 21
+    },
+    {
+      "name": "CoinDCX_22",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/24.png",
+      "collection_id": 4,
+      "token_id": 22
+    },
+    {
+      "name": "CoinDCX_23",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/25.png",
+      "collection_id": 4,
+      "token_id": 23
+    },
+    {
+      "name": "CoinDCX_24",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/27.png",
+      "collection_id": 4,
+      "token_id": 24
+    },
+    {
+      "name": "CoinDCX_25",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/20.png",
+      "collection_id": 4,
+      "token_id": 25
+    },
+    {
+      "name": "CoinDCX_26",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/28.png",
+      "collection_id": 4,
+      "token_id": 26
+    },
+    {
+      "name": "CoinDCX_27",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/30.png",
+      "collection_id": 4,
+      "token_id": 27
+    },
+    {
+      "name": "CoinDCX_28",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/29.png",
+      "collection_id": 4,
+      "token_id": 28
+    },
+    {
+      "name": "CoinDCX_29",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/22.png",
+      "collection_id": 4,
+      "token_id": 29
+    },
+    {
+      "name": "CoinDCX_30",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/31.png",
+      "collection_id": 4,
+      "token_id": 30
+    },
+    {
+      "name": "CoinDCX_31",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/32.png",
+      "collection_id": 4,
+      "token_id": 31
+    },
+    {
+      "name": "CoinDCX_32",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/33.png",
+      "collection_id": 4,
+      "token_id": 32
+    },
+    {
+      "name": "CoinDCX_33",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/34.png",
+      "collection_id": 4,
+      "token_id": 33
+    },
+    {
+      "name": "CoinDCX_34",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/26.png",
+      "collection_id": 4,
+      "token_id": 34
+    },
+    {
+      "name": "CoinDCX_35",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/35.png",
+      "collection_id": 4,
+      "token_id": 35
+    },
+    {
+      "name": "CoinDCX_36",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/36.png",
+      "collection_id": 4,
+      "token_id": 36
+    },
+    {
+      "name": "CoinDCX_37",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/38.png",
+      "collection_id": 4,
+      "token_id": 37
+    },
+    {
+      "name": "CoinDCX_38",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/37.png",
+      "collection_id": 4,
+      "token_id": 38
+    },
+    {
+      "name": "CoinDCX_39",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/39.png",
+      "collection_id": 4,
+      "token_id": 39
+    },
+    {
+      "name": "CoinDCX_40",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/40.png",
+      "collection_id": 4,
+      "token_id": 40
+    },
+    {
+      "name": "CoinDCX_41",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/41.png",
+      "collection_id": 4,
+      "token_id": 41
+    },
+    {
+      "name": "CoinDCX_42",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/42.png",
+      "collection_id": 4,
+      "token_id": 42
+    },
+    {
+      "name": "CoinDCX_43",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/43.png",
+      "collection_id": 4,
+      "token_id": 43
+    },
+    {
+      "name": "CoinDCX_44",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/44.png",
+      "collection_id": 4,
+      "token_id": 44
+    },
+    {
+      "name": "CoinDCX_45",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/45.png",
+      "collection_id": 4,
+      "token_id": 45
+    },
+    {
+      "name": "CoinDCX_46",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/46.png",
+      "collection_id": 4,
+      "token_id": 46
+    },
+    {
+      "name": "CoinDCX_47",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/47.png",
+      "collection_id": 4,
+      "token_id": 47
+    },
+    {
+      "name": "CoinDCX_48",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/49.png",
+      "collection_id": 4,
+      "token_id": 48
+    },
+    {
+      "name": "CoinDCX_49",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/48.png",
+      "collection_id": 4,
+      "token_id": 49
+    },
+    {
+      "name": "CoinDCX_50",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/50.png",
+      "collection_id": 4,
+      "token_id": 50
+    },
+    {
+      "name": "CoinDCX_51",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/52.png",
+      "collection_id": 4,
+      "token_id": 51
+    },
+    {
+      "name": "CoinDCX_52",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/53.png",
+      "collection_id": 4,
+      "token_id": 52
+    },
+    {
+      "name": "CoinDCX_53",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/54.png",
+      "collection_id": 4,
+      "token_id": 53
+    },
+    {
+      "name": "CoinDCX_54",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/56.png",
+      "collection_id": 4,
+      "token_id": 54
+    },
+    {
+      "name": "CoinDCX_55",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/55.png",
+      "collection_id": 4,
+      "token_id": 55
+    },
+    {
+      "name": "CoinDCX_56",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/58.png",
+      "collection_id": 4,
+      "token_id": 56
+    },
+    {
+      "name": "CoinDCX_57",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/57.png",
+      "collection_id": 4,
+      "token_id": 57
+    },
+    {
+      "name": "CoinDCX_58",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/59.png",
+      "collection_id": 4,
+      "token_id": 58
+    },
+    {
+      "name": "CoinDCX_59",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/60.png",
+      "collection_id": 4,
+      "token_id": 59
+    },
+    {
+      "name": "CoinDCX_60",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/61.png",
+      "collection_id": 4,
+      "token_id": 60
+    },
+    {
+      "name": "CoinDCX_61",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/62.png",
+      "collection_id": 4,
+      "token_id": 61
+    },
+    {
+      "name": "CoinDCX_62",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/63.png",
+      "collection_id": 4,
+      "token_id": 62
+    },
+    {
+      "name": "CoinDCX_63",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/64.png",
+      "collection_id": 4,
+      "token_id": 63
+    },
+    {
+      "name": "CoinDCX_64",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/51.png",
+      "collection_id": 4,
+      "token_id": 64
+    },
+    {
+      "name": "CoinDCX_65",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/65.png",
+      "collection_id": 4,
+      "token_id": 65
+    },
+    {
+      "name": "CoinDCX_66",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/67.png",
+      "collection_id": 4,
+      "token_id": 66
+    },
+    {
+      "name": "CoinDCX_67",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/68.png",
+      "collection_id": 4,
+      "token_id": 67
+    },
+    {
+      "name": "CoinDCX_68",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/66.png",
+      "collection_id": 4,
+      "token_id": 68
+    },
+    {
+      "name": "CoinDCX_69",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/70.png",
+      "collection_id": 4,
+      "token_id": 69
+    },
+    {
+      "name": "CoinDCX_70",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/73.png",
+      "collection_id": 4,
+      "token_id": 70
+    },
+    {
+      "name": "CoinDCX_71",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/72.png",
+      "collection_id": 4,
+      "token_id": 71
+    },
+    {
+      "name": "CoinDCX_72",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/71.png",
+      "collection_id": 4,
+      "token_id": 72
+    },
+    {
+      "name": "CoinDCX_73",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/77.png",
+      "collection_id": 4,
+      "token_id": 73
+    },
+    {
+      "name": "CoinDCX_74",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/79.png",
+      "collection_id": 4,
+      "token_id": 74
+    },
+    {
+      "name": "CoinDCX_75",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/80.png",
+      "collection_id": 4,
+      "token_id": 75
+    },
+    {
+      "name": "CoinDCX_76",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/81.png",
+      "collection_id": 4,
+      "token_id": 76
+    },
+    {
+      "name": "CoinDCX_77",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/69.png",
+      "collection_id": 4,
+      "token_id": 77
+    },
+    {
+      "name": "CoinDCX_78",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/84.png",
+      "collection_id": 4,
+      "token_id": 78
+    },
+    {
+      "name": "CoinDCX_79",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/83.png",
+      "collection_id": 4,
+      "token_id": 79
+    },
+    {
+      "name": "CoinDCX_80",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/89.png",
+      "collection_id": 4,
+      "token_id": 80
+    },
+    {
+      "name": "CoinDCX_81",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/88.png",
+      "collection_id": 4,
+      "token_id": 81
+    },
+    {
+      "name": "CoinDCX_82",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/75.png",
+      "collection_id": 4,
+      "token_id": 82
+    },
+    {
+      "name": "CoinDCX_83",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/92.png",
+      "collection_id": 4,
+      "token_id": 83
+    },
+    {
+      "name": "CoinDCX_84",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/93.png",
+      "collection_id": 4,
+      "token_id": 84
+    },
+    {
+      "name": "CoinDCX_85",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/86.png",
+      "collection_id": 4,
+      "token_id": 85
+    },
+    {
+      "name": "CoinDCX_86",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/96.png",
+      "collection_id": 4,
+      "token_id": 86
+    },
+    {
+      "name": "CoinDCX_87",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/97.png",
+      "collection_id": 4,
+      "token_id": 87
+    },
+    {
+      "name": "CoinDCX_88",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/98.png",
+      "collection_id": 4,
+      "token_id": 88
+    },
+    {
+      "name": "CoinDCX_89",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/78.png",
+      "collection_id": 4,
+      "token_id": 89
+    },
+    {
+      "name": "CoinDCX_90",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/85.png",
+      "collection_id": 4,
+      "token_id": 90
+    },
+    {
+      "name": "CoinDCX_91",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/76.png",
+      "collection_id": 4,
+      "token_id": 91
+    },
+    {
+      "name": "CoinDCX_92",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/95.png",
+      "collection_id": 4,
+      "token_id": 92
+    },
+    {
+      "name": "CoinDCX_93",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/100.png",
+      "collection_id": 4,
+      "token_id": 93
+    },
+    {
+      "name": "CoinDCX_94",
+      "description": "Test",
+      "image_uri": "",
+      "collection_id": 4,
+      "token_id": 94
+    },
+    {
+      "name": "Test API Key Item",
+      "description": "Humanity's carelessness, disregard, and refusal to nurture the earth as it had nurtured us, has led to the total annihilation of mankind. Not a single human was left. Except for AfroDroids and their companion Drones.",
+      "image_uri": "https://ipfs.io/ipfs/QmU7Cc5mwhrpCvM2eLWV8of5gGGTx8UnFWgiqYoDvPAauW/22.png",
+      "collection_id": 5,
+      "token_id": 22
+    },
+    {
+      "name": "FIL Bangalore Attendee Avatar",
+      "description": "Welcome to the Filecoin community. This NFT grants you access to a plethora of perks, including raffles, vouchers, merchandise and much more. It also unites you with your fellow community members. WAGMI!",
+      "image_uri": "https://incepthink.mypinata.cloud/ipfs/Qmf4m2yCmKZNFFszc4FzrYLD9vsPX7oYCaPn73sGmfzfL4",
+      "collection_id": 6,
+      "token_id": 1
+    },
+    {
+      "name": "The Pioneer - Set up your Base at #FILBangalore on Day 1",
+      "description": "Awarded to workshop participants on Day 1 at FIL Bangalore",
+      "image_uri": "https://incepthink.mypinata.cloud/ipfs/QmPvbk3V4Dsfc36QgfCkbKQLne9wDXS3hn5npRjKmE89sL",
+      "collection_id": 6,
+      "token_id": 2
+    },
+    {
+      "name": "Web3 Days @BITS Goa",
+      "description": "Awarded to the Students of BITS Pilani Goa who attended the Blockchain Club's Web3 Days with HashCase.",
+      "image_uri": "https://incepthink.mypinata.cloud/ipfs/QmfJrg1i3WCUnVnisEuXB5YFggE8jAp24huCSyXuj5snZZ",
+      "collection_id": 7,
+      "token_id": 1
+    },
+    {
+      "name": "MasterG",
+      "description": "This Digital Collectible is proof of a garment that supports social impact and women empowerment.",
+      "image_uri": "https://gateway.pinata.cloud/ipfs/QmUMJXjBUhgRunZubQ92ij2Hhv197uGZ8pom3yQJt4LdGv",
+      "collection_id": 8,
+      "token_id": 1
+    },
+    {
+      "name": "Zine Bazaar by Gaysi Family",
+      "description": "Your first Digital Collectible by the Gaysi Family as you embark on this journey of independent and free thinking with us",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/customernfts/Gaysi_NFT.gif",
+      "collection_id": 9,
+      "token_id": 1
+    },
+    {
+      "name": "Hoodie Claimed",
+      "description": "",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/website/hoodieclaimed.png",
+      "collection_id": 10,
+      "token_id": 1
+    },
+    {
+      "name": "Hoodie",
+      "description": "",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/website/hoodie.png",
+      "collection_id": 10,
+      "token_id": 2
+    },
+    {
+      "name": "The Zenith - Reach the Pinnacle of #FILBangalore on Day 2",
+      "description": "Awarded to workshop participants on Day 2 at FIL Bangalore",
+      "image_uri": "https://incepthink.mypinata.cloud/ipfs/QmXaWEPsV8tF76ZqrZNqggdrT6Wt776KDQvQZVzrBsMDuC",
+      "collection_id": 10,
+      "token_id": 3
+    },
+    {
+      "name": "HashCase Loyalty Card",
+      "description": "This is your loyalty card to the HashCase ecosystem, a place that unlocks a plethora of perks for you to enjoy",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/website/demonft.png",
+      "collection_id": 11,
+      "token_id": 1
+    },
+    {
+      "name": "Tokere Tree",
+      "description": "1 Tree NFT = 1kWh",
+      "image_uri": "https://gateway.lighthouse.storage/ipfs/QmYFn48nXhZGeM69ZsSRrfYQyRuqCS86xNPFxu6e6Wnwzd",
+      "collection_id": 11,
+      "token_id": 6
+    },
+    {
+      "name": "Your Schbang NFT!",
+      "description": "This NFT enables you to unlock a plethora of perks, so go ahead and enjoy them!",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/website/sneakers.png",
+      "collection_id": 12,
+      "token_id": 1
+    },
+    {
+      "name": "Creative Solstice Attendance Token",
+      "description": "Awarded to all Pepper Content's Creative Solstice Attendees, this NFT assures you entry to subsequent events and can be used as a ticket for the same.",
+      "image_uri": "https://hashcase.mypinata.cloud/ipfs/QmYjKZmTaMJSGVFEZiQAQUjQbVHrFXcPzyYUrSHzSDxLUv",
+      "collection_id": 14,
+      "token_id": 1
+    },
+    {
+      "name": "Open Business Council Membership NFT #1",
+      "description": "An NFT awarded for registering on the Open Business Council platform for 1 year",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/customernfts/obs.jpeg",
+      "collection_id": 15,
+      "token_id": 1
+    },
+    {
+      "name": "Open Business Council Membership NFT #2",
+      "description": "An NFT awarded for registering on the Open Business Council platform for 1 year",
+      "image_uri": "https://hash-collect.s3.ap-south-1.amazonaws.com/customernfts/obs.jpeg",
+      "collection_id": 15,
+      "token_id": 2
+    }
+  ]
+}
